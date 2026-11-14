@@ -1,11 +1,11 @@
-# Разработка пользовательских интерфейсов
+# 31ИСР
 
-[http](https://telemost.yandex.ru/j/21049538844602)
+[Мит](https://meet.jit.si/31isr)
 
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1QlNnNLg2CPhlmlyUgOBSfg_bartMvMlxeVB-7SPv8zw/edit?usp=sharing)
-1. [Roadmap](#roadmap)
+1. [UIDEV Roadmap](#roadmap)
 1. [Как выполнять задания](#как-выполнять-задания)
 1. [Документация](#документация)
 1. [Полезное](#полезное)
@@ -15,7 +15,6 @@
 ### Лекции
 
 - [Лекция Git](http://ktkv-presentations.github.io/algos-8)
-
 - [Web-приложения и web-протоколы](https://ktkv-presentations.github.io/uidev-1/)
 - [Разработка структуры Web-узла](https://ktkv-presentations.github.io/uidev-2/)
 - [HTML](https://ktkv-presentations.github.io/uidev-3/)

@@ -93,11 +93,10 @@ _Если не открывается, то эта [ссылка](https://appbre
 
 - [Лабораторная по JavaScript](https://github.com/21ISR/uidev-js-lab)
 - [Лабораторная - калькулятор](https://github.com/21ISR/uidev-calc-lab)
-
 - [Лабораторная - интерактивные элементы](https://github.com/21ISR/uidev-interactive-ui-lab)
 - [Лабораторная - таймер](https://github.com/31ISR/uidev-timer-lab)
 - [Лабораторная - observer](https://github.com/31ISR/uidev-observer-lab)
-
+- [Лабораторная - fetch](https://github.com/31ISR/uidev-fetch-lab)
 - [Лабораторная - bootstrap](https://github.com/31ISR/uidev-bootstrap-lab)
 
 ## Как выполнять задания

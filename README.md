@@ -5,12 +5,19 @@
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1QlNnNLg2CPhlmlyUgOBSfg_bartMvMlxeVB-7SPv8zw/edit?usp=sharing)
-1. [UIDEV Roadmap](#roadmap)
+1. [UP09 Roadmap](#UP09_roadmap)
+1. [UIDEV Roadmap](#UIDEV_roadmap)
 1. [Как выполнять задания](#как-выполнять-задания)
 1. [Документация](#документация)
 1. [Полезное](#полезное)
 
-## Roadmap
+## UP09 Roadmap
+
+### Лабораторные
+
+- [Лабораторная по Bruno](https://github.com/31isr/uidev-bruno-lab)
+
+## UIDEV Roadmap
 
 ### Лекции
 
@@ -43,17 +50,17 @@
 
 #### Git
 
-[Лабораторная по Git](https://github.com/21isr/uidev-git-lab)
+[Лабораторная по Git](https://github.com/31isr/uidev-git-lab)
 
 #### HTML
 
-[Лабораторная по HTML](https://github.com/21isr/uidev-html-lab)
+[Лабораторная по HTML](https://github.com/31isr/uidev-html-lab)
 
 #### CSS
 
 [Тренажер по селекторам](https://flukeout.github.io/)
 
-[Лабораторная по селекторам](https://github.com/21isr/uidev-selectors-lab)
+[Лабораторная по селекторам](https://github.com/31isr/uidev-selectors-lab)
 
 #### Flexbox
 
@@ -61,7 +68,7 @@
 
 _Если не открывается, то эта [ссылка](https://olso.folk.ntnu.no/flexboxfroggy/)_
 
-[Лабораторная по Flexbox](https://github.com/21isr/uidev-flex-lab)
+[Лабораторная по Flexbox](https://github.com/31isr/uidev-flex-lab)
 
 #### Grid
 
@@ -69,31 +76,31 @@ _Если не открывается, то эта [ссылка](https://olso.f
 
 _Если не открывается, то эта [ссылка](https://appbrewery.github.io/gridgarden/)_
 
-- [Лабораторная по Grid](https://github.com/21isr/uidev-grid-lab)
+- [Лабораторная по Grid](https://github.com/31isr/uidev-grid-lab)
 
 > [!CAUTION]
 > Все работы выше должны быть сданы до 15.03.2026
 
-- [Лабораторная по Flex + Grid](https://github.com/21isr/uidev-flex-grid-lab)
+- [Лабораторная по Flex + Grid](https://github.com/31isr/uidev-flex-grid-lab)
 
 #### Различные свойства
 
-- [Лабораторная по тексту](https://github.com/21isr/uidev-text-lab)
-- [Лабораторная по странице блога](https://github.com/21ISR/uidev-blog-lab)
-- [Лабораторная по псевдоклассам](https://github.com/21ISR/uidev-pseudoclasses-lab)
-- [Лабораторная по position: absolute](https://github.com/21ISR/uidev-absolute-lab)
+- [Лабораторная по тексту](https://github.com/31isr/uidev-text-lab)
+- [Лабораторная по странице блога](https://github.com/31isr/uidev-blog-lab)
+- [Лабораторная по псевдоклассам](https://github.com/31isr/uidev-pseudoclasses-lab)
+- [Лабораторная по position: absolute](https://github.com/31isr/uidev-absolute-lab)
   
 > [!CAUTION]
 > Все работы выше должны быть сданы до 30.03.2026
 
-- [Лабораторная по формам](https://github.com/21ISR/uidev-form-lab)
-- [Лабораторная по адаптивной верстке](https://github.com/21ISR/uidev-adaptive-lab)
-- [Лабораторная по BEM и CSS переменным](https://github.com/21ISR/uidev-bem-lab)
-- [Лабораторная - лендинг](https://github.com/21ISR/uidev-landing-lab)
+- [Лабораторная по формам](https://github.com/31isr/uidev-form-lab)
+- [Лабораторная по адаптивной верстке](https://github.com/31isr/uidev-adaptive-lab)
+- [Лабораторная по BEM и CSS переменным](https://github.com/31isr/uidev-bem-lab)
+- [Лабораторная - лендинг](https://github.com/31isr/uidev-landing-lab)
 
-- [Лабораторная по JavaScript](https://github.com/21ISR/uidev-js-lab)
-- [Лабораторная - калькулятор](https://github.com/21ISR/uidev-calc-lab)
-- [Лабораторная - интерактивные элементы](https://github.com/21ISR/uidev-interactive-ui-lab)
+- [Лабораторная по JavaScript](https://github.com/31isr/uidev-js-lab)
+- [Лабораторная - калькулятор](https://github.com/31isr/uidev-calc-lab)
+- [Лабораторная - интерактивные элементы](https://github.com/31isr/uidev-interactive-ui-lab)
 - [Лабораторная - таймер](https://github.com/31ISR/uidev-timer-lab)
 - [Лабораторная - observer](https://github.com/31ISR/uidev-observer-lab)
 - [Лабораторная - fetch](https://github.com/31ISR/uidev-fetch-lab)
@@ -106,7 +113,7 @@ _Если не открывается, то эта [ссылка](https://appbre
 
 ### Как начать выполнять
 
-1. Создайте fork репозитория в организации [21isr](https://github.com/21isr) под названием `название_лабораторной-{фамилия}`
+1. Создайте fork репозитория в организации [31isr](https://github.com/31isr) под названием `название_лабораторной-{фамилия}`
 
 2. Переключитель на ветку `dev`/`wip` (левый-верхний угол)
 

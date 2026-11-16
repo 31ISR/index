@@ -98,6 +98,8 @@ _Если не открывается, то эта [ссылка](https://appbre
 - [Лабораторная - таймер](https://github.com/31ISR/uidev-timer-lab)
 - [Лабораторная - observer](https://github.com/31ISR/uidev-observer-lab)
 
+- [Лабораторная - bootstrap](https://github.com/31ISR/uidev-bootstrap-lab)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:

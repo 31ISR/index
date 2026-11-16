@@ -15,7 +15,7 @@
 
 ### Лабораторные
 
-- [Лабораторная по Bruno](https://github.com/31isr/uidev-bruno-lab)
+- [Лабораторная по Bruno](https://github.com/31isr/up09-bruno-lab)
 
 ## UIDEV Roadmap
 

@@ -98,6 +98,7 @@ _Если не открывается, то эта [ссылка](https://appbre
 - [Лабораторная - observer](https://github.com/31ISR/uidev-observer-lab)
 - [Лабораторная - fetch](https://github.com/31ISR/uidev-fetch-lab)
 - [Лабораторная - bootstrap](https://github.com/31ISR/uidev-bootstrap-lab)
+- [Лабораторная - localstorage](https://github.com/31ISR/uidev-localstorage-lab)
 
 ## Как выполнять задания
 

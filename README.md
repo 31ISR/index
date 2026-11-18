@@ -1,6 +1,9 @@
 # 31ИСР
 
-[Мит](https://meet.jit.si/31isr)
+## Ссылки на миты
+
+[Jitsy](https://meet.jit.si/31isr)
+[Телемост](https://telemost.yandex.ru/j/22268504076328)
 
 ## Содержание
 

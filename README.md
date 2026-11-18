@@ -1,5 +1,16 @@
 # 31ИСР
 
+```
+function FindProxyForURL(url, host) {
+  if (isPlainHostName(host) ||
+      shExpMatch(host, "localhost") ||
+      shExpMatch(host, "127.*") ||
+      shExpMatch(host, "*.local")) {
+    return "DIRECT";
+  }
+  return "PROXY 10.0.55.52:3128"; // <- your IP:PORT
+}
+```
 ## Ссылки на миты
 
 [Jitsy](https://meet.jit.si/31isr)

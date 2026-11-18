@@ -1,16 +1,15 @@
 # 31ИСР
 
-```
-function FindProxyForURL(url, host) {
-  if (isPlainHostName(host) ||
-      shExpMatch(host, "localhost") ||
-      shExpMatch(host, "127.*") ||
-      shExpMatch(host, "*.local")) {
-    return "DIRECT";
-  }
-  return "PROXY 10.0.55.52:3128"; // <- your IP:PORT
-}
-```
+## Инструкция
+
+1. Заходите на студак, папка Tech/SOFT
+2. Копируете файл ca-root.crt на рабочий стол
+3. Открываете терминал (Ctrl+T)
+4. Запускаете Хромиум `chromium --proxy-server="http://10.0.55.52:3128"
+5. Открываете настройки, пишите "Сертификаты" в поиске, там кнопка "Безопасность", затем "Настроить сертификаты" и "Центры сертификации" и импортируйте ca-root.crt с рабочего стола
+6. Закрываете браузер, запускаете еще раз `chromium --proxy-server="http://10.0.55.52:3128`
+7. Подключаетесь к телемосту ниже
+
 ## Ссылки на миты
 
 [Jitsy](https://meet.jit.si/31isr)
